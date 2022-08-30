@@ -7,7 +7,7 @@ public class Dummy1 {
 	@Test
 	public void validTest() {
 		
-		Reporter.log("valid test is passed");
+		System.out.println("valid test is passed");
 		
 	}
 
